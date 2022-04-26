@@ -633,6 +633,10 @@
   }
 }
 @media (max-width: 768px) {
+  .main__social {
+    bottom: 40rem;
+  }
+
   .btn-menu {
     display: block;
   }
@@ -745,10 +749,6 @@
   }
 }
 @media (max-width: 500px) {
-  .main__social {
-    bottom: 40rem;
-  }
-
   .header {
     left: 0;
     width: 100%;
